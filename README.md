@@ -1,4 +1,4 @@
-# Sorting Visualization
+# Sorting Algorithm Visualization
 ### This is a simple visualization project made to visualize the following sorting algorithms :- 
 - Bubble Sort 
 - Selection Sort
