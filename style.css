@@ -32,8 +32,15 @@ body {
     grid-template-columns: 1fr 1fr 2fr;
 }
 
+#size{
+  font-size: 21px;
+}
+
+#speed{
+  font-size: 21px;
+}
+
 #input{
-    font-size: 10px;
     display: flex;
     padding: 10px;
     justify-content: space-around;
